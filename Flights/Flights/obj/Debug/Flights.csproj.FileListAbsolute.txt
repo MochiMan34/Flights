@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\bin\Debug\Flights.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\bin\Debug\Flights.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\bin\Debug\Flights.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\obj\Debug\Flights.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\obj\Debug\Flights.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\Flights\Flights\obj\Debug\Flights.pdb
